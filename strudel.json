@@ -1,0 +1,6 @@
+{
+  "_base": "https://raw.githubusercontent.com/juliencoquet/strudel-samples/main/",
+  "focusup": "Focus_HighLight.wav",
+  "focuson": "Focus_Activate.wav",
+  "focusoff": "Focus_DeActivate.wav"
+}
